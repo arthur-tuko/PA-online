@@ -1,9 +1,35 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="ChIYQQ6PtmquqvKr-86P">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;strokeWidth=10;" edge="1" parent="1" source="TRvgsoYrr0g4D7-EyxeE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="309" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="1" source="TRvgsoYrr0g4D7-EyxeE-4" target="TRvgsoYrr0g4D7-EyxeE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-4" value="horas = conversão em segundos&lt;div&gt;minutos = conversão em segundos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="490" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="1" source="TRvgsoYrr0g4D7-EyxeE-5" target="TRvgsoYrr0g4D7-EyxeE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-5" value="Horas em decimais = horas/60&lt;div&gt;tempo em decimais = horas + horas decimais&lt;/div&gt;&lt;div&gt;segundos = tempo * 60&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="175" y="400" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-8" value="segundos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="175" y="600" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvgsoYrr0g4D7-EyxeE-10" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="322" y="720" width="186" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
